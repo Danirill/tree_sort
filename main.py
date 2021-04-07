@@ -19,7 +19,7 @@ def generate_array(size=1):
 
 
 def main():
-    limit = 100
+    limit = 150
     repeat = 1
     for i in range(0, limit + 1):
         for j in range(0, repeat):
